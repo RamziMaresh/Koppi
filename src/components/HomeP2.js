@@ -15,7 +15,7 @@ function HomeP2() {
       includes two types ofpackages 3 - classic and flavored - which can both be <br></br> 
       purchased either monthly or annually</p><br></br> 
 
-      <img src='images/homePart2-11.png' /> <br></br>
+      <img src='./images/homePart2-11.png' /> <br></br>
     </div>
     
   );
