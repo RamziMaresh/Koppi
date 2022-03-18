@@ -1,0 +1,126 @@
+@import url('http://fonts.cdnfonts.com/css/milliard');
+
+.Apps{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+    justify-self: start;
+    cursor: pointer;
+  }
+  .AppOS{
+    display: flex;
+    width: 170px;
+    margin-right: 60px;
+    margin-bottom: -20px;
+  }
+  
+  
+  .footer-container {
+      background-color: #30646C;
+      padding: 0rem 0 0rem 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .footer-subscription {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 15px;
+      color: #B0D5A4;
+    }
+    
+    .footer-subscription > p {
+      font-family: 'Milliard', sans-serif;
+  
+    }
+    
+    .footer-subscription-heading {
+      margin-bottom: 10px;
+      font-size: 24px;
+    }
+    
+    .footer-subscription-text {
+      margin-bottom: 24px;
+      font-size: 20px;
+    }
+  
+  
+    /* Social Icons */
+    .social-icon-link {
+      color: #B0D5A4;
+      font-size: 20px;
+    }
+  
+     .social-icons {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 150px;
+      margin-bottom: 10px;
+      margin-right: 20px ;
+  
+    }
+    
+    .social-media {
+      max-width: 1000px;
+      width: 100%;
+    }
+    
+    .social-media-wrap {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      max-width: 1000px;
+      /*margin: 40px auto 0 auto;*/
+    }
+    
+   
+    
+    .social-logo img {
+      justify-self: start;
+      width: 18vh;
+      margin-left: 20px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+    
+    .website-rights {
+      color: #B0D5A4;
+      margin-bottom: 10px;
+      font-family: 'Milliard', sans-serif;
+    }
+    
+    @media screen and (max-width: 820px) {
+      /*.footer-links {
+        padding-top: 2rem;
+      }
+    
+      .footer-input {
+        width: 100%;
+      }
+    
+      .btn {
+        width: 100%;
+      }
+    
+      .footer-link-wrapper {
+        flex-direction: column;
+      }*/
+    
+      .social-media-wrap {
+        flex-direction: column;
+      }
+    }
+    
+    @media screen and (max-width: 768px) {
+    }

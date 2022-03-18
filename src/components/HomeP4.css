@@ -1,0 +1,41 @@
+  
+  
+  
+  /* Home part4*/
+  .part4-container {
+    background-color: #F6FBF5;
+    width: 100%;
+    text-Align: center;
+    justify-Content: center;
+    align-Items: center;
+    height: auto;
+  }
+
+  .part4-container > img{
+    width: 50vh;
+    height: auto;
+
+    justify-content: center;
+  }
+
+
+  .vertical-line{
+    display: inline-block;
+    border-left: 1px solid #264851;
+    margin: 0 10px;
+    height: 150px;
+}
+  .part4-container img:hover {
+    opacity: 0.8;
+  }
+  
+  @media screen and (max-width: 768px) {
+  
+    .part4-container  > img {
+  
+      width: 30vh;
+      }
+    }
+
+  
+  
