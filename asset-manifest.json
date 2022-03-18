@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Koppi/static/css/main.4f469068.css",
+    "main.js": "/Koppi/static/js/main.fe6ca92e.js",
+    "static/media/homePart2.png": "/Koppi/static/media/homePart2.1f99b19542e14fe2e004.png",
+    "index.html": "/Koppi/index.html",
+    "main.4f469068.css.map": "/Koppi/static/css/main.4f469068.css.map",
+    "main.fe6ca92e.js.map": "/Koppi/static/js/main.fe6ca92e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f469068.css",
+    "static/js/main.fe6ca92e.js"
+  ]
+}
